@@ -20,7 +20,7 @@ const PostCard = ({ comment }) => (
         <View style={styles.commentStatsContainer}>
             <Text style={styles.commentStatItem}><Text style={styles.dataText}>317 </Text> Reposts</Text>
             <Text style={styles.commentStatItem}><Text style={styles.dataText}>6 </Text> Quotes</Text>
-            <Text style={styles.commentStatItem}><Text style={styles.dataText}>2,2300 </Text> Likes</Text>
+            <Text style={styles.commentStatItem}><Text style={styles.dataText}>2,300 </Text> Likes</Text>
         </View>
         <View style={styles.horizontalLine} />
         <View style={styles.commentActionsContainer}>
